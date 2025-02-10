@@ -1,6 +1,10 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Ezra Jon F Pakpahan**, saya lulusan Universitas Teknologi Bandung dari jurusan Teknik Informatika. Keahlian kebanggaan saya adalah Web developer, namu saya juga pernah membuat beberapa program game memakai bahasa C# dan analisa data memakai bahasa Python.
+Perkenalkan nama saya **Ezra Jon F Pakpahan**, saya lulusan Universitas Teknologi Bandung dengan jurusan Teknik Informatika. Saat ini saya cukup menekuni pengembangan website, seperti membuat website memakai Wordpress atau framework Laravel dengan bahasa PHP, Javascript, CSS dan HTML. Namun saya juga pernah
+- Membuat aplikasi detskop dan android menggunakan bahasa Java 
+- Memprogram aksi dan AI game memakai bahasa C# 
+- Analisa data memakai bahasa Python.
+- Membuat perancagan bisnis
 
 # Berikut pula portofolio beberapa karya yang sudah dihosting
 https://ezan220401.github.io/Portofolio_Developer/
