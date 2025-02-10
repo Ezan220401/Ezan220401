@@ -1,8 +1,9 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Ezra Jon F Pakpahan**.\ 
-Saat ini saya sedang menempuh pendidikan Teknik Informatika 
-di Sekolah Tinggi Teknologi Bandung.
+Perkenalkan nama saya **Ezra Jon F Pakpahan**, saya lulusan Universitas Teknologi Bandung dari jurusan Teknik Informatika. Keahlian kebanggaan saya adalah Web developer, namu saya juga pernah membuat beberapa program game memakai bahasa C# dan analisa data memakai bahasa Python.
+
+# Berikut pula portofolio beberapa karya yang sudah dihosting
+https://ezan220401.github.io/Portofolio_Developer/
 
 <p align="left">
 <a href="https://github.com/Ezan220401">
