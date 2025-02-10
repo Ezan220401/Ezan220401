@@ -6,7 +6,6 @@ Perkenalkan nama saya **Ezra Jon F Pakpahan**, saya lulusan Universitas Teknolog
 - Analisa data memakai bahasa Python.
 - Membuat perancagan bisnis
 
-# Berikut pula portofolio beberapa karya yang sudah dihosting
 https://ezan220401.github.io/Portofolio_Developer/
 
 <p align="left">
